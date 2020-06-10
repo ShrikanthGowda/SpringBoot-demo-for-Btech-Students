@@ -1,0 +1,1 @@
+insert into STUDENT values (100, 'CSE', 3, 'Tokyo');
