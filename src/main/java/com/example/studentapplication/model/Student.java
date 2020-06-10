@@ -1,4 +1,4 @@
-package com.example.userapplication.model;
+package com.example.studentapplication.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

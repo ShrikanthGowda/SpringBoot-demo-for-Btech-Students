@@ -1,8 +1,8 @@
-package com.example.userapplication.service;
+package com.example.studentapplication.service;
 
-import com.example.userapplication.exception.StudentException;
-import com.example.userapplication.model.Student;
-import com.example.userapplication.repository.StudentRepository;
+import com.example.studentapplication.exception.StudentException;
+import com.example.studentapplication.model.Student;
+import com.example.studentapplication.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

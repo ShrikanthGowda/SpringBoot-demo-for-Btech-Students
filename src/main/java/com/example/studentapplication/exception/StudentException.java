@@ -1,4 +1,4 @@
-package com.example.userapplication.exception;
+package com.example.studentapplication.exception;
 
 public class StudentException extends RuntimeException {
 
